@@ -21,5 +21,3 @@ class Triangle
 
   end
 end
-
-#@side_1 == 0 && @side_2 == 0 && @side_3 == 0
